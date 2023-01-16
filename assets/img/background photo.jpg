@@ -1,0 +1,274 @@
+<!doctype html>
+<html lang="en">
+    <head>
+    	<meta charset="utf-8">
+    	<title>Instagram Hex Colors (CSS Gradient + Brand Gradients)</title>
+		<meta name="description" content="Brand Gradients' rendition of Instagram's HEX colors creates a beautiful gradient and gives you an idea of how the Instagram logo meshes with their CSS color gradient background of #405de6, #5851db, #833ab4, #c13584, #e1306c, & #fd1d1d. This design is open-source and can be used or just admired on any website.">
+		<meta property="og:title" content="Instagram's HEX Color Gradient Background" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="http://www.brandgradients.com/instagram-colors/" />
+		<meta property="og:image" content="http://www.brandgradients.com/img/backgrounds/instagram-hex-colors-gradient-background.png" />
+		<meta property="og:description" content="Using HEX colors like #405de6, #5851db, #833ab4, #c13584, #e1306c, & #fd1d1d, Brand Gradients crafted a stunning gradient background simply by using the brand colors from Instagram. You can collect the HEX color codes, CSS gradient, or copy the background as an image!" />
+				<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
+        <link href="/assets/css/themify-icons.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="/assets/css/pe-icon-7-stroke.css" rel="stylesheet" type="text/css" media="all">
+        <link href="/assets/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="/assets/css/theme-nearblack.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="/assets/css/custom.css" rel="stylesheet" type="text/css" media="all" />
+        <link href='http://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
+		<link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48 64x64" type="image/vnd.microsoft.icon">
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116160455-3"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'UA-116160455-3');
+        </script>
+        <script type="text/javascript">
+                      /* Open */
+    function openNav() {
+        document.getElementById("myNav").style.height = "100%";
+    }
+
+    /* Close */
+    function closeNav() {
+        document.getElementById("myNav").style.height = "0%";
+    }
+        </script>
+		
+    </head>
+    <body>
+    <div class="nav-container">
+	<nav class="absolute transparent" style="background: rgba(0, 0, 0, 0.058823529411764705);">
+		<div class="nav-bar">
+			<div class="module left">
+				<a href="/"><img alt="Brand Gradients Logo" class="logo logo-light" src="/img/brand-gradients-light.png" style="width: 150px;"> <img alt="Foundry" class="logo logo-dark" src="/brand-gradients.svg" style="width: 150px;"></a>
+			</div>
+			<div onclick="openNav();" class="module widget-handle right">
+				<i class="ti-menu"></i>
+			</div>
+			<div class="module widget-handle right">
+				<a onclick="openStuff();"><i class="ti-reload"></i></a>
+			</div>
+			<div id="searchgone">
+				<div class="module widget-handle right">
+					<div style="padding-top:10px;">
+						<div id="custom-templates">
+							<input class="typeahead" type="text" placeholder="search">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</nav>
+</div>
+<div id="myNav" class="overlay-nav">
+	<div class="container-fluid">
+		  <!-- Button to close the overlay navigation -->
+		  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+		  <a href="/color-gradients/"><button type="button" class="btn btn-primary btn-lg viewall">All Color Gradients</button></a>
+
+		  <div class="row" style="padding: 20px 0px 10px 0px; margin-top:70px;">
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+              <a href="/soundcloud-colors/" title="Soundcloud Color Codes Gradient">
+              <div style="margin-top: 10px; width: 100%; height: 180px; border-radius: 3px; background: #ad5389; background: -webkit-linear-gradient(120deg, #ff8800, #ff3300); background: linear-gradient(120deg, #ff8800, #ff3300);">
+                 <h6 style="color: #fff; padding: 10px;">Soundcloud</h6>
+              </div>
+			  </a>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+              <a href="/google-colors/" title="Google Color Codes Gradient">
+              <div style="margin-top: 10px; width: 100%; height:180px; border-radius: 3px; background: #1488cc;background: -webkit-linear-gradient(-120deg, #4285f4, #34a853, #fbbc05, #ea4335); background:linear-gradient(-120deg, #4285f4, #34a853, #fbbc05, #ea4335);">
+                <h6 style="color: #fff; padding: 10px;">Google</h6>
+              </div>
+			  </a>
+            </div> 
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+              <a href="/designmodo-colors/" title="Designmodo Color Codes Gradient">
+              <div style="margin-top: 10px; width: 100%; height:180px; border-radius: 3px; background: #ff0084; background: -webkit-linear-gradient(to top, #122B40, #446CB3);; background:linear-gradient(to top, #122B40, #446CB3);">
+                 <h6 style="color: #fff; padding: 10px;">Designmodo</h6>
+              </div>
+			  </a>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+              <a href="/lyft-colors/" title="Lyft Color Codes Gradient">
+              <div style="margin-top: 10px; width: 100%; height:180px; border-radius: 3px; background: #ff0084; background: -webkit-linear-gradient(-45deg, #f3f3f5, #E90B8B, #352384, #333447);; background:linear-gradient(-45deg, #f3f3f5, #E90B8B, #352384, #333447);">
+                 <h6 style="color: #fff; padding: 10px;">Lyft</h6>
+              </div>
+			  </a>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+              <a href="/burger-king-colors/" title="Burger King Color Codes Gradient">
+              <div style="margin-top: 10px; width: 100%; height: 180px; border-radius: 3px; background: #ad5389; background: -webkit-linear-gradient(120deg, #185494, #EE1D23, #FAAF18, #FFFFFF); background:linear-gradient(120deg, #185494, #EE1D23, #FAAF18, #FFFFFF);">
+                 <h6 style="color: #fff; padding: 10px;">Burger King</h6>
+              </div>
+			  </a>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+              <a href="/warby-parker-colors/" title="Warby Parker Color Codes Gradient">
+              <div style="margin-top: 10px; width: 100%; height:180px; border-radius: 3px; background: #ff0084; background: -webkit-linear-gradient(120deg, #414b56, #00a2e1); background:linear-gradient(120deg, #414b56, #00a2e1);">
+                 <h6 style="color: #fff; padding: 10px;">Warby Parker</h6>
+              </div>
+			  </a>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+              <a href="/dhl-colors/" title="DHL Color Codes Gradient">
+              <div style="margin-top: 10px; width: 100%; height:180px; border-radius: 3px; background: #1488cc;background: -webkit-linear-gradient(-120deg, #ba0c2f, #ffcd00, #c9c9c9); background:linear-gradient(-120deg, #ba0c2f, #ffcd00, #c9c9c9);">
+                <h6 style="color: #fff; padding: 10px;">DHL</h6>
+              </div>
+			  </a>
+            </div> 
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+              <a href="/instagram-colors/" title="Instagram Color Codes Gradient">
+              <div style="margin-top: 10px; width: 100%; height:180px; border-radius: 3px; background: #ff0084; background: -webkit-linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d); background:linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);">
+                 <h6 style="color: #fff; padding: 10px;">Instagram</h6>
+              </div>
+			  </a>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+              <a href="/blue-gradient/" title="Blue Gradient">
+              <div style="margin-top: 10px; width: 100%; height: 180px; border-radius: 3px; background: #ad5389; background: -webkit-linear-gradient(-120deg, #021B79, #0575E6, #205E9B); background:linear-gradient(-120deg, #021B79, #0575E6, #205E9B);">
+                 <h6 style="color: #fff; padding: 10px;">Blue Gradient</h6>
+              </div>
+			  </a>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+              <a href="/gold-gradient/" title="Gold Gradient">
+              <div style="margin-top: 10px; width: 100%; height:180px; border-radius: 3px; background: #ff0084; background: -webkit-linear-gradient(to right, #BF953F, #FCF6BA, #B38728, #FBF5B7, #AA771C); background:linear-gradient(to right, #BF953F, #FCF6BA, #B38728, #FBF5B7, #AA771C);">
+                 <h6 style="color: #fff; padding: 10px;">Gold Gradient</h6>
+              </div>
+			  </a>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+              <a href="/red-gradient/" title="Red Gradient">
+              <div style="margin-top: 10px; width: 100%; height:180px; border-radius: 3px; background: #1488cc;background: -webkit-linear-gradient(-120deg, #D62121, #C72C2C, #3a1111); background:linear-gradient(-120deg, #D62121, #C72C2C, #3a1111);">
+                <h6 style="color: #fff; padding: 10px;">Red Gradient</h6>
+              </div>
+			  </a>
+            </div> 
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+              <a href="/black-gradient/" title="Black Gradient">
+              <div style="margin-top: 10px; width: 100%; height:180px; border-radius: 3px; background: #ff0084; background: -webkit-linear-gradient(to right, #040404, #000000, #656565); background:linear-gradient(to right, #040404, #000000, #656565);">
+                 <h6 style="color: #fff; padding: 10px;">Black Gradient</h6>
+              </div>
+			  </a>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+              <a href="/green-gradient/" title="Green Gradient">
+              <div style="margin-top: 10px; width: 100%; height: 180px; border-radius: 3px; background: #ad5389; background: -webkit-linear-gradient(to right, #074C00, #42A341, #B8E2A3); background:linear-gradient(to right, #074C00, #42A341, #B8E2A3);">
+                 <h6 style="color: #fff; padding: 10px;">Green Gradient</h6>
+              </div>
+			  </a>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+              <a href="/purple-gradient/" title="Purple Gradient">
+              <div style="margin-top: 10px; width: 100%; height:180px; border-radius: 3px; background: #ff0084; background: -webkit-linear-gradient(45deg, #2F1C53, #A46DFF, #F6D1FD); background:linear-gradient(45deg, #2F1C53, #A46DFF, #F6D1FD);">
+                 <h6 style="color: #fff; padding: 10px;">Purple Gradient</h6>
+              </div>
+			  </a>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+              <a href="/sunset-gradient/" title="Sunset Gradient">
+              <div style="margin-top: 10px; width: 100%; height:180px; border-radius: 3px; background: #1488cc;background: -webkit-linear-gradient(to top, #040308, #AD4A28, #DD723C, #FC7001, #DCB697, #9BA5AE, #3E5879, #020B1A); background:linear-gradient(to top, #040308, #AD4A28, #DD723C, #FC7001, #DCB697, #9BA5AE, #3E5879, #020B1A);">
+                <h6 style="color: #fff; padding: 10px;">Sunset Gradient</h6>
+              </div>
+			  </a>
+            </div> 
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+              <a href="/sunrise-gradient/" title="Sunrise Gradient">
+				<div style="margin-top: 10px; width: 100%; height:180px; border-radius: 3px; background: #ff0084; background: -webkit-linear-gradient(to top, #58151A, #BC2909, #BA6D09, #71A8EE, #3072EB, #1552C6, #0542A8); background:linear-gradient(to top, #58151A, #BC2909, #BA6D09, #71A8EE, #3072EB, #1552C6, #0542A8);">
+                 <h6 style="color: #fff; padding: 10px;">Sunrise Gradient</h6>
+				</div>
+			  </a>
+            </div>
+          </div>
+		
+	</div>
+</div>
+		<div class="main-container">
+			<section style="background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);" class="pt240 pb240 paralzlax image-bg overlay bg-light">
+			        <div class="container">
+			            <div class="row">
+			                <div class="col-sm-12 text-center">
+			                    <img alt="Instagram Hex Colors: Gradient" src="/img/logos/instagram-hex-colors-gradient-logo.png" class="image-small">
+			                </div>
+			            </div>
+			        </div>
+			        <div class="align-bottom text-center">
+			            <h1 style="font-size: large; line-height: 0;">Instagram Hex Colors - Gradient</h1>
+			            <ul class="list-inline social-list mb24">
+			                <li>
+			                    <a target="_blank" href="https://twitter.com/home?status=You%20won't%20believe%20the%20awesome%20gradient%20created%20from%20%40Instagram's%20hex%20colors%20on%20http%3A//www.BrandGradients.com/instagram-colors/">
+			                        <i class="ti-twitter-alt"></i>
+			                    </a>
+			                </li>
+			                <li>
+			                    <a target="_blank" href="https://www.facebook.com/dialog/feed?app_id=184683071273&link=http%3A%2F%2Fwww.brandgradients.com%2Finstagram-colors%2F&picture=http%3A%2F%2Fwww.brandgradients.com%2Fimg%2Fbackgrounds%2Finstagram-hex-colors-gradient-background.png&name=Stunning%20Brand%20Gradient%20from%20Instagram's%20HEX%20Color%20Codes&caption=%20&description=Wow..%20BrandGradients%20crafted%20a%20stunning%20color%20gradient%20simply%20by%20using%20the%20brand%20colors%20from%20Instagram.%20You%20can%20collect%20the%20HEX%20color%20codes%2C%20CSS%20gradient%2C%20or%20copy%20the%20background%20as%20an%20image!&redirect_uri=http%3A%2F%2Fwww.facebook.com%2F">
+			                        <i class="ti-facebook"></i>
+			                    </a>
+			                </li>
+			                <li>
+			                    <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A//www.brandgradients.com/instagram-colors&title=Brand%20Gradients%20created%20from%20the%20Hex%20Colors%20of%20Instagram&summary=Using%20Instagram's%20color%20palette%20as%20a%20base,%20Brand%20Gradients%20made%20this%20amazing%20gradient%20which%20can%20be%20used%20as%20a%20background,%20in%20an%20app,%20or%20just%20to%20collect%20the%20HEX%20color%20codes.&source=">
+			                        <i class="ti-linkedin"></i>
+			                    </a>
+			                </li>
+			                <li>
+			                    <a href="mailto:?subject=I%20found%20this%20color%20gradient%20using%20Instagram's%20brand%20colors%20on%20BrandGradients.com&body=Hey!%0A%0ACheck%20out%20this%20this%20stunning%20color%20gradient%20which%20was%20generated%20using%20the%20brand%20colors%20from%20Instagram%2C%20through%20the%20free%20app%20BrandGradients%3A%20http%3A%2F%2Fwww.brandgradients.com%2Finstagram-colors%2F">
+			                        <i class="ti-email"></i>
+			                    </a>
+			                </li>
+			            </ul>
+			        </div>
+			    </section>
+	            <section class="pb64 pb-xs-40">
+			        <div class="container">
+			            <div class="row">
+			                <div class="col-sm-4">
+			                    <div class="feature feature-2 filled text-center">
+			                        <div class="text-center">
+			                            <i class="pe-7s-eyedropper icon-sm"></i>
+			                            <h5 class="uppercase">Instagram HEX COLORS</h5>
+			                        </div>
+									<a style="background:#405de6;color:#dadada;"  class="btn-filled btn" id="p1" onclick="copyToClipboard('#p1')">#405de6</a>
+									<a style="background:#5851db;color:#dadada;"  class="btn-filled btn" id="p2" onclick="copyToClipboard('#p2')">#5851db</a>
+									<a style="background:#833ab4;color:#dadada;"  class="btn-filled btn" id="p3" onclick="copyToClipboard('#p3')">#833ab4</a>
+									<a style="background:#c13584;color:#dadada;"  class="btn-filled btn" id="p4" onclick="copyToClipboard('#p4')">#c13584</a>
+									<a style="background:#e1306c;color:#dadada;"  class="btn-filled btn" id="p5" onclick="copyToClipboard('#p5')">#e1306c</a>
+									<a style="background:#fd1d1d;color:#dadada;"  class="btn-filled btn" id="p6" onclick="copyToClipboard('#p6')">#fd1d1d</a>
+			                    </div>
+			                </div>
+			                <div class="col-sm-4">
+			                    <div class="feature feature-2 filled text-center">
+			                        <div class="text-center">
+			                            <i class="pe-7s-drop icon-sm"></i>
+			                            <h5 class="uppercase">Instagram CSS Gradient</h5>
+			                        </div>
+									<a style="height:56px;padding-top:5px;line-height: 15px;font-size: x-small;max-width: 100%;background:#2B2B2B; border: none; color: #64F200" class="btn-filled btn" id="gradient" onclick="copyToClipboard('#gradient')">background:<br>linear-gradient(45deg, #405de6, <br>#5851db, #833ab4, #c13584, #e1306c, #fd1d1d);</a>
+			                    </div>
+			                </div>
+			                <div class="col-sm-4">
+			                    <div class="feature feature-2 filled text-center">
+			                        <div class="text-center">
+			                            <i class="pe-7s-photo icon-sm"></i>
+			                            <h5 class="uppercase">Instagram Gradient Image</h5>
+			                        </div>
+			                        <a class="btn-filled btn" href="/img/backgrounds/instagram-hex-colors-gradient-background.png" download>Download Gradient Background (PNG)</a>
+			                    </div>  
+			                </div>
+			            </div>
+			        </div>
+			    </section>
+	        </div>
+	        	    <script src="/assets/js/clipboardcopy.js"></script>
+		<script src="/assets/js/jquery.min.js"></script>
+        <script src="/assets/js/bootstrap.min.js"></script>
+        <script src="/assets/js/parallax.js"></script>
+        <script src="/assets/js/scripts.js"></script>
+		<script type="text/javascript" src="/assets/js/typeahead.bundle.js"></script>
+		<script type="text/javascript" src="http://twitter.github.io/typeahead.js/js/handlebars.js"></script>
+	    <script src="/assets/js/searchquery.js"></script>
+	    <script src="/assets/js/randomlink.js"></script>    </body>
+</html>
